@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="projectDetails">Project Details</string>
+    <string name="str2">Flexible</string>
+    <string name="questionAndAnswers">questionAndAnswers</string>
+    <string name="otherDetails">Other Details</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/rounded_corners"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:text="Delete"
+        android:padding="10dp"
+        android:layout_margin="5dp"
+        android:background="#FFFFFF"
+        android:onClick="deleteProfile"
+        android:textColor="@color/colorBlue"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:text="Edit"
+        android:padding="10dp"
+        android:layout_margin="5dp"
+        android:background="#FFFFFF"
+        android:onClick="editProfile"
+        android:textColor="@color/colorBlue"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:text="Cancel"
+        android:padding="10dp"
+        android:layout_margin="5dp"
+        android:background="#FFFFFF"
+        android:onClick="cencelDecision"
+        android:textColor="@color/colorBlue"
+        />
+
+
+</LinearLayout>

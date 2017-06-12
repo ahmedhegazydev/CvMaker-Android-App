@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorBlue"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:id="@+id/llMain"
+    android:tag="ahmed 2222"
+    >
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/rounded_corners2"
+        android:hint="Enter Name ..."
+        android:textColor="@color/colorBlue"
+        android:padding="15dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:id="@+id/etEditProfileName"
+        android:inputType="text"
+        android:tag="ahmed"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_corners2"
+        android:onClick="editProfileName"
+        android:text="Edit"
+        android:textSize="20sp"
+        android:textStyle="bold|italic"
+
+        />
+</LinearLayout>

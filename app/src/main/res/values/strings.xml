@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">CV Maker</string>
+
+    <string name="helloUser">Welcome To Easy Resume Builder</string>
+    <string name="startWith">Start With Your Profile Name</string>
+    <string name="profileName">Enter Name</string>
+    <string name="next">Next</string>
+    <string name="enterName">Please Enter Your Name</string>
+    <string name="profileAdded">Pofile Added Successfully</string>
+    <string name="personalDetails">Personal Details</string>
+    <string name="uploadPhoto">Upload Photo</string>
+    <string name="educationDetails">Education Details</string>
+    <string name="experDetails">Experience Details</string>
+    <string name="projectDetails">Project Details</string>
+    <string name="referenceDetails">Reference Details</string>
+    <string name="complete">Complete</string>
+    <string name="generateResume">Generate Resume</string>
+    <string name="name">Please enter your name</string>
+    <string name="dob">D.o.B</string>
+    <string name="enterDob">Please enter your birth date</string>
+    <string name="enterAdd">Please enter your address</string>
+    <string name="enterLang">Enter Languages (Arabic, English)</string>
+    <string name="enterCellNumber">Please enter cell no</string>
+    <string name="enterEmail">Please enter email id</string>
+    <string name="str1"><![CDATA[Easy & Simple]]></string>
+    <string name="str2">Flexible</string>
+    <string name="str3"><![CDATA[Powerfull & Attractive]]></string>
+    <string name="erase">erase</string>
+    <string name="questionAndAnswers">questionAndAnswers</string>
+
+
+    <string-array name="string_array_gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="title_activity_other_details">OtherDetailsActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="otherDetails">Other Details</string>
+
+
+</resources>
